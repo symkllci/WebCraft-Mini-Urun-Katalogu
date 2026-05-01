@@ -8,13 +8,13 @@ React öğrenirken bootcamp ödevi olarak geliştirdiğim bir e-ticaret katalog 
 
 ## 📸 Önizleme
 
-![Önizleme 1](img.png)
-![Önizleme 2](img1.png)
-![Önizleme 3](img2.png)
-![Önizleme 4](img3.png)
-![Önizleme 5](img4.png)
-![Önizleme 6](img5.png)
-![Önizleme 7](img6.png)
+![Önizleme 1](ımg.png)
+![Önizleme 2](ımg1.png)
+![Önizleme 3](ımg2.png)
+![Önizleme 4](ımg3.png)
+![Önizleme 5](ımg4.png)
+![Önizleme 6](ımg5.png)
+![Önizleme 7](ımg6.png)
 
 ## ✨ Özellikler
 
@@ -32,13 +32,6 @@ React öğrenirken bootcamp ödevi olarak geliştirdiğim bir e-ticaret katalog 
 - Context API — global state için
 - React Router v6 — sayfa yönlendirme için
 - Vite — geliştirme ortamı
-
-## 📄 Sayfalar
-
-- `/` Ana sayfa, ürün listesi
-- `/add` Yeni ürün ekleme
-- `/product/:id` Ürün detayı
-- `/edit/:id` Ürün düzenleme
 
 ## 👨‍💻 Geliştirici
 
